@@ -1,4 +1,5 @@
 //привет!!!
+//второй привет!!!
 package org.example;
 
 import java.util.Scanner;
